@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+"""digenx console entry."""
+import sys
+sys.path.insert(0, __import__("os").path.dirname(__import__("os").path.abspath(__file__)))
+from digenx.cli import main
+
+if __name__ == "__main__":
+    main()
