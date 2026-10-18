@@ -1,6 +1,6 @@
-# digenx
+# khilona
 
-**Apna Digen agent CLI** — terminal se Digen AI agents se chat karo. 100% free, koi credit system nahi.
+**Khilona — apna AI video agent** — terminal se Digen AI agents se chat karo. 100% free, koi credit system nahi.
 
 Digen ek AI video agent hai: aap brief do, wo finished video banata hai (short dramas, shorts, ads, AI avatar clips). Ye tool us se baat karne ka terminal client hai.
 
@@ -20,7 +20,7 @@ Digen ek AI video agent hai: aap brief do, wo finished video banata hai (short d
 ## Install
 
 ```bash
-git clone https://github.com/MisbahAliKhokha/digenx.git
+git clone https://github.com/MisbahAliKhokha/khilona.git
 cd digenx
 ./install.sh
 ```
